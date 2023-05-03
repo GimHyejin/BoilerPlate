@@ -1,4 +1,4 @@
-//mongodb+srv://nodeMongo:<password>@boilerplate.lt9hwwx.mongodb.net/?retryWrites=true&w=majority
+
 const express = require('express')
 const bodyParser = require('body-parser')
 const mongoose = require('mongoose')
